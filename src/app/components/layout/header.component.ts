@@ -11,7 +11,7 @@ import { Component } from '@angular/core';
         <span class="header-subtitle">Dashboard de Gestión de Proyectos</span>
       </div>
       <nav class="header-nav">
-        <span class="author">Alfonso Padilla Padilla | UNIR 2025</span>
+        <span class="author">Alfonso Padilla P. | UNIR 2026</span>
       </nav>
     </header>
   `,

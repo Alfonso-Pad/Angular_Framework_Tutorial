@@ -15,7 +15,7 @@ import { RouterLink } from '@angular/router';
         <div class="hero-meta">
           <span>📚 Desarrollo de Aplicaciones en Red (DAR)</span>
           <span>🎓 UNIR - 2025</span>
-          <span>👤 Alfonso Padilla Padilla</span>
+          <span>👤 Alfonso Padilla P.</span>
         </div>
       </section>
 

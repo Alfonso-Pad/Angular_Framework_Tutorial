@@ -141,8 +141,8 @@ import { RouterLink } from '@angular/router';
             del Máster en Ingeniería Informática de UNIR.
           </p>
           <div class="author-meta">
-            <span>👤 Alfonso Padilla Padilla</span>
-            <span>🎓 UNIR 2025</span>
+            <span>👤 Alfonso Padilla P.</span>
+            <span>🎓 UNIR 2026</span>
           </div>
         </div>
       </section>
